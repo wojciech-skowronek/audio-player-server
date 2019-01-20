@@ -1,0 +1,27 @@
+{
+  "name": "audio-player-server",
+  "version": "1.0.0",
+  "description": "Audio Player Server project",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojciech-skowronek/audio-player-server.git"
+  },
+  "keywords": [
+    "audio-player"
+  ],
+  "author": "Wojciech Skowronek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wojciech-skowronek/audio-player-server/issues"
+  },
+  "homepage": "https://github.com/wojciech-skowronek/audio-player-server#readme",
+  "dependencies": {
+    "restify": "^7.6.0",
+    "restify-cors-middleware": "^1.1.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
