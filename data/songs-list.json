@@ -1,0 +1,67 @@
+{
+  "tracks": [
+    {
+      "title": "Don't Stop Me Now",
+      "duration": "3:30",
+      "genre": "Rock",
+      "artist": "Queen",
+      "album": "Jazz",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    },
+    {
+      "title": "Barcelona",
+      "duration": "5:44",
+      "genre": "",
+      "artist": "Freddie Mercury & Montserrat Caballe",
+      "album": "Barcelona",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    },
+    {
+      "title": "Tears In Heaven",
+      "duration": "4:36",
+      "genre": "Acoustic",
+      "artist": "Eric Clapton",
+      "album": "The Very Best of MTV Unplugged",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    },
+    {
+      "title": "Summer of 69",
+      "duration": "3:58",
+      "genre": "Acoustic",
+      "artist": "Bryan Adams",
+      "album": "The Very Best of MTV Unplugged ",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    },
+    {
+      "title": "Down On My Knees",
+      "duration": "4:03",
+      "genre": "General Contemporary R&B",
+      "artist": "Ayo",
+      "album": "Joyful",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    },
+    {
+      "title": "Chan Chan",
+      "duration": "4:18",
+      "genre": "Salsa",
+      "artist": "Buena Vista Social Club",
+      "album": "Buena Vista Social Club",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    },
+    {
+      "title": "Soy Tu Aire",
+      "duration": "4:02",
+      "genre": "General Latin Pop",
+      "artist": "Labuat",
+      "album": "Labuat",
+      "albumCoverUrl": "http://s3.amazonaws.com/bucket/dummy.png",
+      "fileUrl": "http://s3.amazonaws.com/bucket/dummy.mp3"
+    }
+  ]
+}

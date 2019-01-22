@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "584b46f5-c43f-4c86-a400-021b91a5a37f",
+		"name": "audio-player",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/tracks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8080/tracks",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8080",
+					"path": [
+						"tracks"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

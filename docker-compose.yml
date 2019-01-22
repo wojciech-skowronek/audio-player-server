@@ -1,0 +1,15 @@
+version: '3'
+services:
+  audio-player-server:
+    image: node:10.8.0-alpine
+    container_name: audio-player-server
+    environment:
+      - PATH="./node_modules/.bin:$PATH"
+      - NODE_ENV=dev
+    command: node node_modules/nodemon/bin/nodemon.js --legacy-watch --ignore data/ --inspect="0.0.0.0:9229" src/index.js
+    ports:
+      - '8080:8080'
+      - '9229:9229'
+    volumes:
+      - ${PWD}:${PWD}
+    working_dir: ${PWD}
